@@ -1,6 +1,8 @@
 # ReactNative-PayDocument
 注：使用的前提是桥接好文件
 
+使用见简书：https://www.jianshu.com/p/fb89f2e13cb9
+
 在reactnative中调用方法
 支付宝支付：请求成功后拿到订单（responseJson.data.orderString）
  Pay.onAliPay(responseJson.data.orderString)
